@@ -1,2 +1,3 @@
 # learning-from-data
-Learning From Data course - Yaser Abu Mostafa
+Some exercises from Learning From Data course
+Yaser Abu Mostafa
